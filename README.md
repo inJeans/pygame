@@ -1,19 +1,19 @@
 # pygame
 Some simple scripts to illustrate game making using pygame
 
-To run these scripts you will need to have a working installation of python with the pygame modules installed. To simplify the installation of pygame it is recomended that you use the Python 2.7.x release with the pygame 1.9.2 release.
+To run these scripts you will need to have a working installation of python with the pygame modules installed. To simplify the installation of pygame it is recomended that you use the [Python 2.7.x](https://www.python.org/downloads/) release with the [pygame 1.9.1](http://www.pygame.org/hifi.html) release.
 
 ## Installation
 
 ### Windows
 
-It is easiest to use the graphical installers for both Python and pygame. Install Python 2.7.x from here, and install pygame 1.9.2 from here.
+It is easiest to use the graphical installers for both Python and pygame. Install Python 2.7.x from [here]((https://www.python.org/downloads/)), and install pygame 1.9.1 from [here](http://www.pygame.org/download.shtml).
 
 ### Mac OSX
 
-Again, it is easiest to install using the graphical installers for Python 2.7.x from here and pygame 1.9.2 from here. 
+Again, it is easiest to install using the graphical installers for Python 2.7.x from [here](https://www.python.org/downloads/) and pygame 1.9.2 from [here](http://www.pygame.org/download.shtml). 
 
-I have seen some graphical library issues with pygame 1.9.2 on El Capitan, if you see these mabe an installation using homebrew could be more stable. If so try following these steps. (First you will need to install homebrew.)
+I have seen some graphical library issues with pygame 1.9.2 on El Capitan, if you see these mabe an installation using [homebrew](http://brew.sh/) could be more stable. If so try following [these](http://jalada.co.uk/2011/06/17/installing-pygame-on-os-x-with-a-homebrew-python-2-7-install.html) steps. (First you will need to [install](http://brew.sh/) homebrew.)
 
 ## Execution
 
