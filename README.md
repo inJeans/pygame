@@ -22,3 +22,11 @@ Once you have Python and pygame installed to run it is as simple as
     python 00-hello_world.py
 
 You can replace <code>00-hello_world.py</code> with the file you wish to run.
+
+## More About pygame
+
+If you want to learn more about pygame away from your slow classmates, there are a couple of good books that are freely available online
+
+- [Invent with Python](http://inventwithpython.com/pygame/chapters/)
+- [The Python Game Book](http://thepythongamebook.com/en:pygame:start)
+
